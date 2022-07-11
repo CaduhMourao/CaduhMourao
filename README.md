@@ -23,6 +23,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target=_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/CaduhMourao/CaduhMourao/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/CaduhMourao/CaduhMourao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
