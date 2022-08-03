@@ -1,4 +1,4 @@
-<h2>Olá meu nome é Carlos Eduardo, sou estudante de programação!</h2>
+<h2>Olá meu nome é Carlos Eduardo, Desenvolvedor Front-End!</h2>
 
 <div> 
   <a href="https://instagram.com/caduhmourao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
